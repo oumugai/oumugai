@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+にゃーん
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=oumugai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
