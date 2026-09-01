@@ -2,7 +2,7 @@
 
 にゃーん
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oumugai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=oumugai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **oumugai/oumugai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
